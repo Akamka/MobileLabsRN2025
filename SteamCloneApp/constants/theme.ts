@@ -1,0 +1,26 @@
+export const themes = {
+  light: {
+    background: "#f6f6fa",
+    card: "#fff",
+    text: "#181c23",
+    subtext: "#60676c",
+    accent: "#3b82f6",
+    tabBar: "#fff",
+    icon: "#222",
+    border: "#e3e3ee",
+    dot: "#3b82f6",
+    input: "#ececf3",
+  },
+  dark: {
+    background: "#181c23",
+    card: "#232733",
+    text: "#fff",
+    subtext: "#a3a3a3",
+    accent: "#3b82f6",
+    tabBar: "#181c23",
+    icon: "#fff",
+    border: "#23293d",
+    dot: "#3b82f6",
+    input: "#232733",
+  },
+};
